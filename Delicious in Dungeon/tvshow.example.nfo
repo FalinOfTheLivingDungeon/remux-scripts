@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tvshow>
+  <title>Delicious in Dungeon</title>
+  <originaltitle>Dungeon Meshi</originaltitle>
+  <sorttitle>Delicious in Dungeon</sorttitle>
+  <year>2024</year>
+  <season>1</season>
+  <uniqueid type="imdb" default="false">tt21621494</uniqueid>
+  <uniqueid type="tmdb" default="true">207784</uniqueid>
+  <uniqueid type="tvdb" default="false">423257</uniqueid>
+</tvshow>

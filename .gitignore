@@ -1,0 +1,14 @@
+*.mkv
+*.mka
+*.mks
+*.ass
+*.srt
+*.otf
+*.ttf
+*.woff
+*.woff2
+__pycache__/
+*.py[cod]
+*.tmp
+*.log
+
