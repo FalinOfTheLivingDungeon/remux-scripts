@@ -2,8 +2,6 @@
 
 This release contains 24 episodes and six non-credit opening/ending clips. The 10-bit Blu-ray AV1 video streams were retained without re-encoding.
 
-Named source and contributor information is separated into [`SOURCES.md`](SOURCES.md).
-
 ## Video and Japanese audio
 
 - The Blu-ray AV1 video was compared against an independent Blu-ray reference and found aligned.
